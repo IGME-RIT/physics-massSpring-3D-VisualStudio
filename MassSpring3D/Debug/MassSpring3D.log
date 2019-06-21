@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-massspring-3d-mastervs2019\massspring3d\main.cpp(659): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\advacned topics\physics-massspring-3d-mastervs2019\massspring3d\main.cpp(713): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MassSpring3D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\Advacned Topics\physics-massSpring-3D-masterVS2019\MassSpring3D\Debug\MassSpring3D.exe
